@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "OpOpOpKit123456",
+  "mongoUri": "mongodb+srv://kit:Passw0rd@cluster0.qtdgn.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
